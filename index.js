@@ -27,8 +27,8 @@ function changeFruit(fruit) {
   fruit[2] = "orange";
   return fruit;
 }
-
-console.log(fruit);
+// Output will be ['apple', 'mango', 'orange]
+console.log(changeFruit(fruit));
 
 // QUESTION FOUR
 /**
