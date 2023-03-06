@@ -6,7 +6,7 @@ Array and functions practice questions
 
 What are the differences between mutating array methods and non-mutation array methods in JavaScript. List 5 array methods that fall under each of them.
 
-ANSWER
+#### ANSWER
 Mutating array methods changes the original array while non-mutating array methods do not change the original array value, instead returns a new array.
 
 - MUTATING ARRAY METHODS
